@@ -190,7 +190,7 @@ public ResponseEntity<?> createUser(@RequestBody @Valid UserRequest request) {
 | 표준화     | JSR 스펙 기반 → 구현체 교체 가능              |
 | 확장성     | 커스텀 제약조건 만들기 가능                   |
 
-# 커스텀 어노테이션
+# 3. 커스텀 어노테이션
 ## 커스텀 어노테이션이란?
 
 ### 정의
